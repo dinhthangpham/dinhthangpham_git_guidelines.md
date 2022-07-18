@@ -1,6 +1,8 @@
 # Hướng dẫn sử dụng project trong git
 1, Git
+
 ![thang](https://raw.githubusercontent.com/elsewhencode/project-guidelines/master/images/branching.png)
+
 1.1, Một số tắc ở git.
 Một số quy tắc cần nhớ:
 * Thực hiện công việc trong 1 nhánh tính năng 
