@@ -13,6 +13,7 @@ Một số quy tắc cần nhớ:
 &nbsp; _Tại sao_:
 > Tại cách này, bạn có thể chắc chắn rằng code sẽ luôn được xây lên mà không có vấn đề gì, và nó còn được sử dụng trực tiếp cho nhà phát hành (nó có thể quá mức cần thiết cho 1 số dự án) 
 * Đừng bao giờ đẩy lên nhà phát triển hoặc nhánh chính. Hãy tạo 1 yêu cầu
+
 &nbsp; _Tại sao_:
 > Nó thông báo các thành viên trong nhóm rằng họ đã hoàn thành một tính năng. Nó còn dễ dàng để đánh giá của code và dành riêng cho để thảo luận về tính năng được đề xuất.
 * Cập nhật vị trí nhánh chính của bạn và thực hiện 1 rebase (là 1 chức năng được dùng để gắn nhánh công việc đã hoàn thành vào nhánh gốc) trước khi đẩy tính năng của bạn và đưa ra 1 yêu cầu.
